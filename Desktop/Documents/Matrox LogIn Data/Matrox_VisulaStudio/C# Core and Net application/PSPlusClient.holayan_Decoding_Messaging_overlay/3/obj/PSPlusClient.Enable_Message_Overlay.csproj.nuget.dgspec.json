@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\holayan\\Desktop\\Matrox\\trash\\Functional test Addjustment\\PSPlusClient.holayan_Decoding_Messaging_overlay\\3\\PSPlusClient.holayan_fianl_Button_Enable_Messaging_Overlay\\PSPlusClient.Enable_Message_Overlay.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\holayan\\Desktop\\Matrox\\trash\\Functional test Addjustment\\PSPlusClient.holayan_Decoding_Messaging_overlay\\3\\PSPlusClient.holayan_fianl_Button_Enable_Messaging_Overlay\\PSPlusClient.Enable_Message_Overlay.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\holayan\\Desktop\\Matrox\\trash\\Functional test Addjustment\\PSPlusClient.holayan_Decoding_Messaging_overlay\\3\\PSPlusClient.holayan_fianl_Button_Enable_Messaging_Overlay\\PSPlusClient.Enable_Message_Overlay.csproj",
+        "projectName": "PSPlusClient.Enable_Message_Overlay",
+        "projectPath": "C:\\Users\\holayan\\Desktop\\Matrox\\trash\\Functional test Addjustment\\PSPlusClient.holayan_Decoding_Messaging_overlay\\3\\PSPlusClient.holayan_fianl_Button_Enable_Messaging_Overlay\\PSPlusClient.Enable_Message_Overlay.csproj",
+        "packagesPath": "C:\\Users\\holayan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\holayan\\Desktop\\Matrox\\trash\\Functional test Addjustment\\PSPlusClient.holayan_Decoding_Messaging_overlay\\3\\PSPlusClient.holayan_fianl_Button_Enable_Messaging_Overlay\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\holayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Work\\Maevex2\\Daily\\3.02.00\\Build_017\\Samples\\Matrox.Maevex.SDK_v3.02.00.017\\MVXclient.Samples": {},
+          "C:\\Work\\Maevex2\\Daily\\3.02.00\\Build_018\\Samples\\Matrox.Maevex.SDK_v3.02.00.018\\MVXclient.Samples": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "dependencies": {
+            "Matrox.PowerStreamPlus.Client": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

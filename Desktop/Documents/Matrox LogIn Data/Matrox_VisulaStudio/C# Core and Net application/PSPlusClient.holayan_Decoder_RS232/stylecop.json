@@ -1,0 +1,15 @@
+﻿{
+  // ACTION REQUIRED: This file was automatically added to your project, but it
+  // will not take effect until additional steps are taken to enable it. See the
+  // following page for additional information:
+  //
+  // https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/EnableConfiguration.md
+
+  "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+  "settings": {
+    "documentationRules": {
+      "companyName": "Matrox Graphics Inc",
+      "copyrightText": "(c) [2019-2020], {companyName}. All rights reserved.\n\nThis software code is subject to the terms and conditions outlined\nin the non-disclosure agreement between Matrox Graphics Inc. and your company.\nBy accessing this code or using it in any way, you indicate your\nacceptance of such terms and conditions.\n\nAll code and information is provided \"as is\" without warranty of any kind,\neither expressed or implied, including but not limited to the implied\nwarranties of merchantability and/or fitness for a particular purpose.\n\nDisclaimer: {companyName}. reserves the right to make\nchanges in specifications and code at any time and without notice.\nNo responsibility is assumed by {companyName}. for its use;\nnor for any infringements of patents or other rights of\nthird parties resulting from its use. No license is granted under\nany patents or patent rights of {companyName}."
+    }
+  }
+}

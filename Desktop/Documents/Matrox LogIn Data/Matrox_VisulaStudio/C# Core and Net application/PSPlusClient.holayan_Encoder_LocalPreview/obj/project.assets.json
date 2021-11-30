@@ -1,0 +1,1105 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {
+      "Autofac/3.5.2": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Autofac.dll": {}
+        }
+      },
+      "Matrox.PowerStreamPlus.Client/3.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Autofac": "3.5.2",
+          "Nito.AsyncEx": "3.0.1",
+          "ServiceStack.Client": "4.5.12",
+          "ServiceStack.HttpClient": "4.5.12",
+          "protobuf-net": "2.0.0.668"
+        },
+        "compile": {
+          "lib/net451/MML.SSDP.dll": {},
+          "lib/net451/SV2Client.Serializer.dll": {},
+          "lib/net451/SV2Client.dll": {}
+        },
+        "runtime": {
+          "lib/net451/MML.SSDP.dll": {},
+          "lib/net451/SV2Client.Serializer.dll": {},
+          "lib/net451/SV2Client.dll": {}
+        },
+        "contentFiles": {
+          "contentFiles/any/any/SV2Client.Net.Windows.dll": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "SV2Client.Net.Windows.dll"
+          }
+        },
+        "build": {
+          "build/Matrox.PowerStreamPlus.Client.targets": {}
+        }
+      },
+      "Microsoft.Bcl/1.1.10": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Bcl.Build": "1.0.14"
+        },
+        "compile": {
+          "lib/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/_._": {}
+        }
+      },
+      "Microsoft.Bcl.Build/1.0.14": {
+        "type": "package"
+      },
+      "Microsoft.Net.Http/2.2.29": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Bcl": "1.1.10",
+          "Microsoft.Bcl.Build": "1.0.14"
+        },
+        "frameworkAssemblies": [
+          "System.Net.Http",
+          "System.Net.Http.WebRequest"
+        ],
+        "compile": {
+          "lib/net45/System.Net.Http.Extensions.dll": {},
+          "lib/net45/System.Net.Http.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/net45/System.Net.Http.Extensions.dll": {},
+          "lib/net45/System.Net.Http.Primitives.dll": {}
+        }
+      },
+      "Nito.AsyncEx/3.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Nito.AsyncEx.Concurrent.dll": {},
+          "lib/net45/Nito.AsyncEx.Enlightenment.dll": {},
+          "lib/net45/Nito.AsyncEx.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Nito.AsyncEx.Concurrent.dll": {},
+          "lib/net45/Nito.AsyncEx.Enlightenment.dll": {},
+          "lib/net45/Nito.AsyncEx.dll": {}
+        }
+      },
+      "protobuf-net/2.0.0.668": {
+        "type": "package",
+        "compile": {
+          "lib/net40/protobuf-net.dll": {}
+        },
+        "runtime": {
+          "lib/net40/protobuf-net.dll": {}
+        }
+      },
+      "ServiceStack.Client/4.5.12": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.Interfaces": "4.5.12",
+          "ServiceStack.Text": "4.5.12"
+        },
+        "compile": {
+          "lib/net45/ServiceStack.Client.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Client.dll": {}
+        }
+      },
+      "ServiceStack.HttpClient/4.5.12": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Net.Http": "2.2.29",
+          "ServiceStack.Client": "4.5.12"
+        },
+        "compile": {
+          "lib/net45/ServiceStack.HttpClient.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.HttpClient.dll": {}
+        }
+      },
+      "ServiceStack.Interfaces/4.5.12": {
+        "type": "package",
+        "compile": {
+          "lib/portable-wp80+sl5+net45+win8+wpa81+monotouch+monoandroid+xamarin.ios10/ServiceStack.Interfaces.dll": {}
+        },
+        "runtime": {
+          "lib/portable-wp80+sl5+net45+win8+wpa81+monotouch+monoandroid+xamarin.ios10/ServiceStack.Interfaces.dll": {}
+        }
+      },
+      "ServiceStack.Text/4.5.12": {
+        "type": "package",
+        "compile": {
+          "lib/net45/ServiceStack.Text.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Text.dll": {}
+        }
+      },
+      "StyleCop.Analyzers/1.1.118": {
+        "type": "package"
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win": {
+      "Autofac/3.5.2": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Autofac.dll": {}
+        }
+      },
+      "Matrox.PowerStreamPlus.Client/3.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Autofac": "3.5.2",
+          "Nito.AsyncEx": "3.0.1",
+          "ServiceStack.Client": "4.5.12",
+          "ServiceStack.HttpClient": "4.5.12",
+          "protobuf-net": "2.0.0.668"
+        },
+        "compile": {
+          "lib/net451/MML.SSDP.dll": {},
+          "lib/net451/SV2Client.Serializer.dll": {},
+          "lib/net451/SV2Client.dll": {}
+        },
+        "runtime": {
+          "lib/net451/MML.SSDP.dll": {},
+          "lib/net451/SV2Client.Serializer.dll": {},
+          "lib/net451/SV2Client.dll": {}
+        },
+        "contentFiles": {
+          "contentFiles/any/any/SV2Client.Net.Windows.dll": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "SV2Client.Net.Windows.dll"
+          }
+        },
+        "build": {
+          "build/Matrox.PowerStreamPlus.Client.targets": {}
+        }
+      },
+      "Microsoft.Bcl/1.1.10": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Bcl.Build": "1.0.14"
+        },
+        "compile": {
+          "lib/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/_._": {}
+        }
+      },
+      "Microsoft.Bcl.Build/1.0.14": {
+        "type": "package"
+      },
+      "Microsoft.Net.Http/2.2.29": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Bcl": "1.1.10",
+          "Microsoft.Bcl.Build": "1.0.14"
+        },
+        "frameworkAssemblies": [
+          "System.Net.Http",
+          "System.Net.Http.WebRequest"
+        ],
+        "compile": {
+          "lib/net45/System.Net.Http.Extensions.dll": {},
+          "lib/net45/System.Net.Http.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/net45/System.Net.Http.Extensions.dll": {},
+          "lib/net45/System.Net.Http.Primitives.dll": {}
+        }
+      },
+      "Nito.AsyncEx/3.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Nito.AsyncEx.Concurrent.dll": {},
+          "lib/net45/Nito.AsyncEx.Enlightenment.dll": {},
+          "lib/net45/Nito.AsyncEx.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Nito.AsyncEx.Concurrent.dll": {},
+          "lib/net45/Nito.AsyncEx.Enlightenment.dll": {},
+          "lib/net45/Nito.AsyncEx.dll": {}
+        }
+      },
+      "protobuf-net/2.0.0.668": {
+        "type": "package",
+        "compile": {
+          "lib/net40/protobuf-net.dll": {}
+        },
+        "runtime": {
+          "lib/net40/protobuf-net.dll": {}
+        }
+      },
+      "ServiceStack.Client/4.5.12": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.Interfaces": "4.5.12",
+          "ServiceStack.Text": "4.5.12"
+        },
+        "compile": {
+          "lib/net45/ServiceStack.Client.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Client.dll": {}
+        }
+      },
+      "ServiceStack.HttpClient/4.5.12": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Net.Http": "2.2.29",
+          "ServiceStack.Client": "4.5.12"
+        },
+        "compile": {
+          "lib/net45/ServiceStack.HttpClient.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.HttpClient.dll": {}
+        }
+      },
+      "ServiceStack.Interfaces/4.5.12": {
+        "type": "package",
+        "compile": {
+          "lib/portable-wp80+sl5+net45+win8+wpa81+monotouch+monoandroid+xamarin.ios10/ServiceStack.Interfaces.dll": {}
+        },
+        "runtime": {
+          "lib/portable-wp80+sl5+net45+win8+wpa81+monotouch+monoandroid+xamarin.ios10/ServiceStack.Interfaces.dll": {}
+        }
+      },
+      "ServiceStack.Text/4.5.12": {
+        "type": "package",
+        "compile": {
+          "lib/net45/ServiceStack.Text.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Text.dll": {}
+        }
+      },
+      "StyleCop.Analyzers/1.1.118": {
+        "type": "package"
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win-x64": {
+      "Autofac/3.5.2": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Autofac.dll": {}
+        }
+      },
+      "Matrox.PowerStreamPlus.Client/3.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Autofac": "3.5.2",
+          "Nito.AsyncEx": "3.0.1",
+          "ServiceStack.Client": "4.5.12",
+          "ServiceStack.HttpClient": "4.5.12",
+          "protobuf-net": "2.0.0.668"
+        },
+        "compile": {
+          "lib/net451/MML.SSDP.dll": {},
+          "lib/net451/SV2Client.Serializer.dll": {},
+          "lib/net451/SV2Client.dll": {}
+        },
+        "runtime": {
+          "lib/net451/MML.SSDP.dll": {},
+          "lib/net451/SV2Client.Serializer.dll": {},
+          "lib/net451/SV2Client.dll": {}
+        },
+        "contentFiles": {
+          "contentFiles/any/any/SV2Client.Net.Windows.dll": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "SV2Client.Net.Windows.dll"
+          }
+        },
+        "build": {
+          "build/Matrox.PowerStreamPlus.Client.targets": {}
+        }
+      },
+      "Microsoft.Bcl/1.1.10": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Bcl.Build": "1.0.14"
+        },
+        "compile": {
+          "lib/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/_._": {}
+        }
+      },
+      "Microsoft.Bcl.Build/1.0.14": {
+        "type": "package"
+      },
+      "Microsoft.Net.Http/2.2.29": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Bcl": "1.1.10",
+          "Microsoft.Bcl.Build": "1.0.14"
+        },
+        "frameworkAssemblies": [
+          "System.Net.Http",
+          "System.Net.Http.WebRequest"
+        ],
+        "compile": {
+          "lib/net45/System.Net.Http.Extensions.dll": {},
+          "lib/net45/System.Net.Http.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/net45/System.Net.Http.Extensions.dll": {},
+          "lib/net45/System.Net.Http.Primitives.dll": {}
+        }
+      },
+      "Nito.AsyncEx/3.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Nito.AsyncEx.Concurrent.dll": {},
+          "lib/net45/Nito.AsyncEx.Enlightenment.dll": {},
+          "lib/net45/Nito.AsyncEx.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Nito.AsyncEx.Concurrent.dll": {},
+          "lib/net45/Nito.AsyncEx.Enlightenment.dll": {},
+          "lib/net45/Nito.AsyncEx.dll": {}
+        }
+      },
+      "protobuf-net/2.0.0.668": {
+        "type": "package",
+        "compile": {
+          "lib/net40/protobuf-net.dll": {}
+        },
+        "runtime": {
+          "lib/net40/protobuf-net.dll": {}
+        }
+      },
+      "ServiceStack.Client/4.5.12": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.Interfaces": "4.5.12",
+          "ServiceStack.Text": "4.5.12"
+        },
+        "compile": {
+          "lib/net45/ServiceStack.Client.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Client.dll": {}
+        }
+      },
+      "ServiceStack.HttpClient/4.5.12": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Net.Http": "2.2.29",
+          "ServiceStack.Client": "4.5.12"
+        },
+        "compile": {
+          "lib/net45/ServiceStack.HttpClient.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.HttpClient.dll": {}
+        }
+      },
+      "ServiceStack.Interfaces/4.5.12": {
+        "type": "package",
+        "compile": {
+          "lib/portable-wp80+sl5+net45+win8+wpa81+monotouch+monoandroid+xamarin.ios10/ServiceStack.Interfaces.dll": {}
+        },
+        "runtime": {
+          "lib/portable-wp80+sl5+net45+win8+wpa81+monotouch+monoandroid+xamarin.ios10/ServiceStack.Interfaces.dll": {}
+        }
+      },
+      "ServiceStack.Text/4.5.12": {
+        "type": "package",
+        "compile": {
+          "lib/net45/ServiceStack.Text.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Text.dll": {}
+        }
+      },
+      "StyleCop.Analyzers/1.1.118": {
+        "type": "package"
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win-x86": {
+      "Autofac/3.5.2": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Autofac.dll": {}
+        }
+      },
+      "Matrox.PowerStreamPlus.Client/3.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Autofac": "3.5.2",
+          "Nito.AsyncEx": "3.0.1",
+          "ServiceStack.Client": "4.5.12",
+          "ServiceStack.HttpClient": "4.5.12",
+          "protobuf-net": "2.0.0.668"
+        },
+        "compile": {
+          "lib/net451/MML.SSDP.dll": {},
+          "lib/net451/SV2Client.Serializer.dll": {},
+          "lib/net451/SV2Client.dll": {}
+        },
+        "runtime": {
+          "lib/net451/MML.SSDP.dll": {},
+          "lib/net451/SV2Client.Serializer.dll": {},
+          "lib/net451/SV2Client.dll": {}
+        },
+        "contentFiles": {
+          "contentFiles/any/any/SV2Client.Net.Windows.dll": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "SV2Client.Net.Windows.dll"
+          }
+        },
+        "build": {
+          "build/Matrox.PowerStreamPlus.Client.targets": {}
+        }
+      },
+      "Microsoft.Bcl/1.1.10": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Bcl.Build": "1.0.14"
+        },
+        "compile": {
+          "lib/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/_._": {}
+        }
+      },
+      "Microsoft.Bcl.Build/1.0.14": {
+        "type": "package"
+      },
+      "Microsoft.Net.Http/2.2.29": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Bcl": "1.1.10",
+          "Microsoft.Bcl.Build": "1.0.14"
+        },
+        "frameworkAssemblies": [
+          "System.Net.Http",
+          "System.Net.Http.WebRequest"
+        ],
+        "compile": {
+          "lib/net45/System.Net.Http.Extensions.dll": {},
+          "lib/net45/System.Net.Http.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/net45/System.Net.Http.Extensions.dll": {},
+          "lib/net45/System.Net.Http.Primitives.dll": {}
+        }
+      },
+      "Nito.AsyncEx/3.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Nito.AsyncEx.Concurrent.dll": {},
+          "lib/net45/Nito.AsyncEx.Enlightenment.dll": {},
+          "lib/net45/Nito.AsyncEx.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Nito.AsyncEx.Concurrent.dll": {},
+          "lib/net45/Nito.AsyncEx.Enlightenment.dll": {},
+          "lib/net45/Nito.AsyncEx.dll": {}
+        }
+      },
+      "protobuf-net/2.0.0.668": {
+        "type": "package",
+        "compile": {
+          "lib/net40/protobuf-net.dll": {}
+        },
+        "runtime": {
+          "lib/net40/protobuf-net.dll": {}
+        }
+      },
+      "ServiceStack.Client/4.5.12": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.Interfaces": "4.5.12",
+          "ServiceStack.Text": "4.5.12"
+        },
+        "compile": {
+          "lib/net45/ServiceStack.Client.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Client.dll": {}
+        }
+      },
+      "ServiceStack.HttpClient/4.5.12": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Net.Http": "2.2.29",
+          "ServiceStack.Client": "4.5.12"
+        },
+        "compile": {
+          "lib/net45/ServiceStack.HttpClient.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.HttpClient.dll": {}
+        }
+      },
+      "ServiceStack.Interfaces/4.5.12": {
+        "type": "package",
+        "compile": {
+          "lib/portable-wp80+sl5+net45+win8+wpa81+monotouch+monoandroid+xamarin.ios10/ServiceStack.Interfaces.dll": {}
+        },
+        "runtime": {
+          "lib/portable-wp80+sl5+net45+win8+wpa81+monotouch+monoandroid+xamarin.ios10/ServiceStack.Interfaces.dll": {}
+        }
+      },
+      "ServiceStack.Text/4.5.12": {
+        "type": "package",
+        "compile": {
+          "lib/net45/ServiceStack.Text.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ServiceStack.Text.dll": {}
+        }
+      },
+      "StyleCop.Analyzers/1.1.118": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "Autofac/3.5.2": {
+      "sha512": "pGR5LjY8T/16x6SkJNd7u6EjQnE4C7JS0BZJ7Yl7pt313gIUZ/2ZnPSOIM5eaIA7ArxaudlyyLvAT4ayX5UJ/A==",
+      "type": "package",
+      "path": "autofac/3.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "autofac.3.5.2.nupkg.sha512",
+        "autofac.nuspec",
+        "lib/net40/Autofac.dll",
+        "lib/net40/Autofac.xml",
+        "lib/portable-net4+sl5+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1/Autofac.dll",
+        "lib/portable-net4+sl5+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1/Autofac.xml"
+      ]
+    },
+    "Matrox.PowerStreamPlus.Client/3.2.0": {
+      "sha512": "+x1vPFJt6aFGdIqbnZMjrty3ZcJIFe9/xXCpq/hn5jrqGcGIInJV6E5XdwyOrbiU61awYNxUt7WuAG9Ee6C0Gg==",
+      "type": "package",
+      "path": "matrox.powerstreamplus.client/3.2.0",
+      "files": [
+        ".nupkg.metadata",
+        "ExtraLib/SV2Client.Net.Windows.dll",
+        "build/Matrox.PowerStreamPlus.Client.targets",
+        "contentFiles/any/any/SV2Client.Net.Windows.dll",
+        "lib/net451/MML.SSDP.dll",
+        "lib/net451/SV2Client.Serializer.dll",
+        "lib/net451/SV2Client.dll",
+        "lib/net451/SV2Client.xml",
+        "lib/portable-net451+win81+MonoTouch10+Xamarin.iOS10/SV2Client.dll",
+        "lib/portable-net451+win81+MonoTouch10+Xamarin.iOS10/SV2Client.xml",
+        "matrox.powerstreamplus.client.3.2.0.nupkg.sha512",
+        "matrox.powerstreamplus.client.nuspec"
+      ]
+    },
+    "Microsoft.Bcl/1.1.10": {
+      "sha512": "+tTqoh/M1pyL8El3qLy30EcwnAtyvFoDZJtdG9Cbg/WdFbh4N8kyrq198XHuEL7lnJbeD0DRO8jcX5IIOh05cQ==",
+      "type": "package",
+      "path": "microsoft.bcl/1.1.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License-Stable.rtf",
+        "lib/Xamarin.iOS10/_._",
+        "lib/monoandroid/_._",
+        "lib/monotouch/_._",
+        "lib/net40/System.IO.dll",
+        "lib/net40/System.IO.xml",
+        "lib/net40/System.Runtime.dll",
+        "lib/net40/System.Runtime.xml",
+        "lib/net40/System.Threading.Tasks.dll",
+        "lib/net40/System.Threading.Tasks.xml",
+        "lib/net40/ensureRedirect.xml",
+        "lib/net45/_._",
+        "lib/portable-net40+sl4+win8+wp71+wpa81/System.IO.dll",
+        "lib/portable-net40+sl4+win8+wp71+wpa81/System.IO.xml",
+        "lib/portable-net40+sl4+win8+wp71+wpa81/System.Runtime.dll",
+        "lib/portable-net40+sl4+win8+wp71+wpa81/System.Runtime.xml",
+        "lib/portable-net40+sl4+win8+wp71+wpa81/System.Threading.Tasks.dll",
+        "lib/portable-net40+sl4+win8+wp71+wpa81/System.Threading.Tasks.xml",
+        "lib/portable-net40+sl4+win8+wp71+wpa81/ensureRedirect.xml",
+        "lib/portable-net40+sl4+win8+wp8+wpa81/System.IO.dll",
+        "lib/portable-net40+sl4+win8+wp8+wpa81/System.IO.xml",
+        "lib/portable-net40+sl4+win8+wp8+wpa81/System.Runtime.dll",
+        "lib/portable-net40+sl4+win8+wp8+wpa81/System.Runtime.xml",
+        "lib/portable-net40+sl4+win8+wp8+wpa81/System.Threading.Tasks.dll",
+        "lib/portable-net40+sl4+win8+wp8+wpa81/System.Threading.Tasks.xml",
+        "lib/portable-net40+sl4+win8+wp8+wpa81/ensureRedirect.xml",
+        "lib/portable-net40+sl4+win8/System.IO.dll",
+        "lib/portable-net40+sl4+win8/System.IO.xml",
+        "lib/portable-net40+sl4+win8/System.Runtime.dll",
+        "lib/portable-net40+sl4+win8/System.Runtime.xml",
+        "lib/portable-net40+sl4+win8/System.Threading.Tasks.dll",
+        "lib/portable-net40+sl4+win8/System.Threading.Tasks.xml",
+        "lib/portable-net40+sl4+win8/ensureRedirect.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/System.IO.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/System.IO.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/System.Runtime.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/System.Runtime.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/System.Threading.Tasks.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/System.Threading.Tasks.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/ensureRedirect.xml",
+        "lib/portable-net40+win8+wp8+wpa81/System.IO.dll",
+        "lib/portable-net40+win8+wp8+wpa81/System.IO.xml",
+        "lib/portable-net40+win8+wp8+wpa81/System.Runtime.dll",
+        "lib/portable-net40+win8+wp8+wpa81/System.Runtime.xml",
+        "lib/portable-net40+win8+wp8+wpa81/System.Threading.Tasks.dll",
+        "lib/portable-net40+win8+wp8+wpa81/System.Threading.Tasks.xml",
+        "lib/portable-net40+win8+wp8+wpa81/ensureRedirect.xml",
+        "lib/portable-net40+win8/System.IO.dll",
+        "lib/portable-net40+win8/System.IO.xml",
+        "lib/portable-net40+win8/System.Runtime.dll",
+        "lib/portable-net40+win8/System.Runtime.xml",
+        "lib/portable-net40+win8/System.Threading.Tasks.dll",
+        "lib/portable-net40+win8/System.Threading.Tasks.xml",
+        "lib/portable-net40+win8/ensureRedirect.xml",
+        "lib/portable-net45+win8+wp8+wpa81/_._",
+        "lib/portable-net45+win8+wpa81/_._",
+        "lib/portable-net451+win81+wpa81/_._",
+        "lib/portable-net451+win81/_._",
+        "lib/portable-win81+wp81+wpa81/_._",
+        "lib/sl4-windowsphone71/System.IO.dll",
+        "lib/sl4-windowsphone71/System.IO.xml",
+        "lib/sl4-windowsphone71/System.Runtime.dll",
+        "lib/sl4-windowsphone71/System.Runtime.xml",
+        "lib/sl4-windowsphone71/System.Threading.Tasks.dll",
+        "lib/sl4-windowsphone71/System.Threading.Tasks.xml",
+        "lib/sl4-windowsphone71/ensureRedirect.xml",
+        "lib/sl4/System.IO.dll",
+        "lib/sl4/System.IO.xml",
+        "lib/sl4/System.Runtime.dll",
+        "lib/sl4/System.Runtime.xml",
+        "lib/sl4/System.Threading.Tasks.dll",
+        "lib/sl4/System.Threading.Tasks.xml",
+        "lib/sl5/System.IO.dll",
+        "lib/sl5/System.IO.xml",
+        "lib/sl5/System.Runtime.dll",
+        "lib/sl5/System.Runtime.xml",
+        "lib/sl5/System.Threading.Tasks.dll",
+        "lib/sl5/System.Threading.Tasks.xml",
+        "lib/win8/_._",
+        "lib/wp8/_._",
+        "lib/wpa81/_._",
+        "microsoft.bcl.1.1.10.nupkg.sha512",
+        "microsoft.bcl.nuspec"
+      ]
+    },
+    "Microsoft.Bcl.Build/1.0.14": {
+      "sha512": "cDLKSvNvRa519hplsbSoYqO69TjdDIhfjtKUM0g20/nVROoWsGav9KCI9HtnGjLmdV1+TcUUDhbotcllibjPEA==",
+      "type": "package",
+      "path": "microsoft.bcl.build/1.0.14",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License-Stable.rtf",
+        "content/net40/_._",
+        "content/netcore45/_._",
+        "content/portable-net40+win8+sl4+wp71+wpa81/_._",
+        "content/sl4-windowsphone71/_._",
+        "content/sl4/_._",
+        "microsoft.bcl.build.1.0.14.nupkg.sha512",
+        "microsoft.bcl.build.nuspec",
+        "tools/Install.ps1",
+        "tools/Microsoft.Bcl.Build.Tasks.dll",
+        "tools/Microsoft.Bcl.Build.targets",
+        "tools/Uninstall.ps1"
+      ]
+    },
+    "Microsoft.Net.Http/2.2.29": {
+      "sha512": "fc4CPEewJ30Xgal+fSq1lYIBt582A7eKlAL7O4HXiYAiTp2VTnA4osSvk7T2n8aS4xTCPVJusQk3yKLT0XSpkg==",
+      "type": "package",
+      "path": "microsoft.net.http/2.2.29",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License-Stable.rtf",
+        "lib/Xamarin.iOS10/System.Net.Http.Extensions.XML",
+        "lib/Xamarin.iOS10/System.Net.Http.Extensions.dll",
+        "lib/Xamarin.iOS10/System.Net.Http.Primitives.dll",
+        "lib/Xamarin.iOS10/System.Net.Http.Primitives.xml",
+        "lib/monoandroid/System.Net.Http.Extensions.XML",
+        "lib/monoandroid/System.Net.Http.Extensions.dll",
+        "lib/monoandroid/System.Net.Http.Primitives.dll",
+        "lib/monoandroid/System.Net.Http.Primitives.xml",
+        "lib/monotouch/System.Net.Http.Extensions.XML",
+        "lib/monotouch/System.Net.Http.Extensions.dll",
+        "lib/monotouch/System.Net.Http.Primitives.dll",
+        "lib/monotouch/System.Net.Http.Primitives.xml",
+        "lib/net40/System.Net.Http.Extensions.XML",
+        "lib/net40/System.Net.Http.Extensions.dll",
+        "lib/net40/System.Net.Http.Primitives.dll",
+        "lib/net40/System.Net.Http.Primitives.xml",
+        "lib/net40/System.Net.Http.WebRequest.dll",
+        "lib/net40/System.Net.Http.WebRequest.xml",
+        "lib/net40/System.Net.Http.dll",
+        "lib/net40/System.Net.Http.xml",
+        "lib/net40/ensureRedirect.xml",
+        "lib/net45/System.Net.Http.Extensions.XML",
+        "lib/net45/System.Net.Http.Extensions.dll",
+        "lib/net45/System.Net.Http.Primitives.dll",
+        "lib/net45/System.Net.Http.Primitives.xml",
+        "lib/net45/ensureRedirect.xml",
+        "lib/portable-net40+sl4+win8+wp71+wpa81/System.Net.Http.Extensions.XML",
+        "lib/portable-net40+sl4+win8+wp71+wpa81/System.Net.Http.Extensions.dll",
+        "lib/portable-net40+sl4+win8+wp71+wpa81/System.Net.Http.Primitives.XML",
+        "lib/portable-net40+sl4+win8+wp71+wpa81/System.Net.Http.Primitives.dll",
+        "lib/portable-net40+sl4+win8+wp71+wpa81/System.Net.Http.dll",
+        "lib/portable-net40+sl4+win8+wp71+wpa81/System.Net.Http.xml",
+        "lib/portable-net40+sl4+win8+wp71+wpa81/ensureRedirect.xml",
+        "lib/portable-net45+win8+wpa81/System.Net.Http.Extensions.XML",
+        "lib/portable-net45+win8+wpa81/System.Net.Http.Extensions.dll",
+        "lib/portable-net45+win8+wpa81/System.Net.Http.Primitives.dll",
+        "lib/portable-net45+win8+wpa81/System.Net.Http.Primitives.xml",
+        "lib/portable-net45+win8+wpa81/ensureRedirect.xml",
+        "lib/portable-net45+win8/System.Net.Http.Extensions.XML",
+        "lib/portable-net45+win8/System.Net.Http.Extensions.dll",
+        "lib/portable-net45+win8/System.Net.Http.Primitives.dll",
+        "lib/portable-net45+win8/System.Net.Http.Primitives.xml",
+        "lib/portable-net45+win8/ensureRedirect.xml",
+        "lib/sl4-windowsphone71/System.Net.Http.Extensions.XML",
+        "lib/sl4-windowsphone71/System.Net.Http.Extensions.dll",
+        "lib/sl4-windowsphone71/System.Net.Http.Primitives.XML",
+        "lib/sl4-windowsphone71/System.Net.Http.Primitives.dll",
+        "lib/sl4-windowsphone71/System.Net.Http.dll",
+        "lib/sl4-windowsphone71/System.Net.Http.xml",
+        "lib/win8/System.Net.Http.Extensions.XML",
+        "lib/win8/System.Net.Http.Extensions.dll",
+        "lib/win8/System.Net.Http.Primitives.dll",
+        "lib/win8/System.Net.Http.Primitives.xml",
+        "lib/wpa81/System.Net.Http.Extensions.XML",
+        "lib/wpa81/System.Net.Http.Extensions.dll",
+        "lib/wpa81/System.Net.Http.Primitives.dll",
+        "lib/wpa81/System.Net.Http.Primitives.xml",
+        "microsoft.net.http.2.2.29.nupkg.sha512",
+        "microsoft.net.http.nuspec"
+      ]
+    },
+    "Nito.AsyncEx/3.0.1": {
+      "sha512": "JSypx/S4sBY1+0wrXcSqcdV6p5nVNFeCfIVyC9LAy69hrle/bxMJf9oZsi5UDxZl7Bsq/bD2XwxMFFOx7zVPag==",
+      "type": "package",
+      "path": "nito.asyncex/3.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid/Nito.AsyncEx.Concurrent.dll",
+        "lib/MonoAndroid/Nito.AsyncEx.Concurrent.xml",
+        "lib/MonoAndroid/Nito.AsyncEx.Enlightenment.dll",
+        "lib/MonoAndroid/Nito.AsyncEx.Enlightenment.xml",
+        "lib/MonoAndroid/Nito.AsyncEx.dll",
+        "lib/MonoAndroid/Nito.AsyncEx.xml",
+        "lib/Xamarin.Mac20/Nito.AsyncEx.Concurrent.dll",
+        "lib/Xamarin.Mac20/Nito.AsyncEx.Concurrent.xml",
+        "lib/Xamarin.Mac20/Nito.AsyncEx.Enlightenment.dll",
+        "lib/Xamarin.Mac20/Nito.AsyncEx.Enlightenment.xml",
+        "lib/Xamarin.Mac20/Nito.AsyncEx.dll",
+        "lib/Xamarin.Mac20/Nito.AsyncEx.xml",
+        "lib/Xamarin.iOS10/Nito.AsyncEx.Concurrent.dll",
+        "lib/Xamarin.iOS10/Nito.AsyncEx.Concurrent.xml",
+        "lib/Xamarin.iOS10/Nito.AsyncEx.Enlightenment.dll",
+        "lib/Xamarin.iOS10/Nito.AsyncEx.Enlightenment.xml",
+        "lib/Xamarin.iOS10/Nito.AsyncEx.dll",
+        "lib/Xamarin.iOS10/Nito.AsyncEx.xml",
+        "lib/net40/Nito.AsyncEx.Concurrent.dll",
+        "lib/net40/Nito.AsyncEx.Concurrent.xml",
+        "lib/net40/Nito.AsyncEx.Enlightenment.dll",
+        "lib/net40/Nito.AsyncEx.Enlightenment.xml",
+        "lib/net40/Nito.AsyncEx.dll",
+        "lib/net40/Nito.AsyncEx.xml",
+        "lib/net45/Nito.AsyncEx.Concurrent.dll",
+        "lib/net45/Nito.AsyncEx.Concurrent.xml",
+        "lib/net45/Nito.AsyncEx.Enlightenment.dll",
+        "lib/net45/Nito.AsyncEx.Enlightenment.xml",
+        "lib/net45/Nito.AsyncEx.dll",
+        "lib/net45/Nito.AsyncEx.xml",
+        "lib/netcore45/Nito.AsyncEx.Concurrent.dll",
+        "lib/netcore45/Nito.AsyncEx.Concurrent.xml",
+        "lib/netcore45/Nito.AsyncEx.Enlightenment.dll",
+        "lib/netcore45/Nito.AsyncEx.Enlightenment.xml",
+        "lib/netcore45/Nito.AsyncEx.dll",
+        "lib/netcore45/Nito.AsyncEx.xml",
+        "lib/portable-net40+netcore45+sl4+wp71/Nito.AsyncEx.dll",
+        "lib/portable-net40+netcore45+sl4+wp71/Nito.AsyncEx.xml",
+        "lib/portable-net40+netcore45+sl5+wp8+wpa81/Nito.AsyncEx.dll",
+        "lib/portable-net40+netcore45+sl5+wp8+wpa81/Nito.AsyncEx.xml",
+        "lib/portable-net40+netcore45/Nito.AsyncEx.Concurrent.dll",
+        "lib/portable-net40+netcore45/Nito.AsyncEx.Concurrent.xml",
+        "lib/portable-net40+netcore45/Nito.AsyncEx.dll",
+        "lib/portable-net40+netcore45/Nito.AsyncEx.xml",
+        "lib/portable-net45+netcore45+wp8+wpa81/Nito.AsyncEx.dll",
+        "lib/portable-net45+netcore45+wp8+wpa81/Nito.AsyncEx.xml",
+        "lib/portable-net45+netcore45+wpa81/Nito.AsyncEx.Concurrent.dll",
+        "lib/portable-net45+netcore45+wpa81/Nito.AsyncEx.Concurrent.xml",
+        "lib/portable-net45+netcore45+wpa81/Nito.AsyncEx.dll",
+        "lib/portable-net45+netcore45+wpa81/Nito.AsyncEx.xml",
+        "lib/sl4/Nito.AsyncEx.Enlightenment.dll",
+        "lib/sl4/Nito.AsyncEx.Enlightenment.xml",
+        "lib/sl4/Nito.AsyncEx.dll",
+        "lib/sl4/Nito.AsyncEx.xml",
+        "lib/sl5/Nito.AsyncEx.Enlightenment.dll",
+        "lib/sl5/Nito.AsyncEx.Enlightenment.xml",
+        "lib/sl5/Nito.AsyncEx.dll",
+        "lib/sl5/Nito.AsyncEx.xml",
+        "lib/wp71/Nito.AsyncEx.Enlightenment.dll",
+        "lib/wp71/Nito.AsyncEx.Enlightenment.xml",
+        "lib/wp71/Nito.AsyncEx.dll",
+        "lib/wp71/Nito.AsyncEx.xml",
+        "lib/wp8/Nito.AsyncEx.Enlightenment.dll",
+        "lib/wp8/Nito.AsyncEx.Enlightenment.xml",
+        "lib/wp8/Nito.AsyncEx.dll",
+        "lib/wp8/Nito.AsyncEx.xml",
+        "lib/wpa81/Nito.AsyncEx.Concurrent.dll",
+        "lib/wpa81/Nito.AsyncEx.Concurrent.xml",
+        "lib/wpa81/Nito.AsyncEx.Enlightenment.dll",
+        "lib/wpa81/Nito.AsyncEx.Enlightenment.xml",
+        "lib/wpa81/Nito.AsyncEx.dll",
+        "lib/wpa81/Nito.AsyncEx.xml",
+        "nito.asyncex.3.0.1.nupkg.sha512",
+        "nito.asyncex.nuspec"
+      ]
+    },
+    "protobuf-net/2.0.0.668": {
+      "sha512": "Lgj+Kf1+RV0utKxX9u1WEcymPGrbWrj/AwFmFADFLLa/LLdc1ji2MIGcecFRAGUu6UO8BRbdjZAIYWvLlN1B/A==",
+      "type": "package",
+      "path": "protobuf-net/2.0.0.668",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20-cf/protobuf-net.dll",
+        "lib/net20-cf/protobuf-net.pdb",
+        "lib/net20-cf/protobuf-net.xml",
+        "lib/net20/protobuf-net.dll",
+        "lib/net20/protobuf-net.pdb",
+        "lib/net20/protobuf-net.xml",
+        "lib/net30/protobuf-net.dll",
+        "lib/net30/protobuf-net.pdb",
+        "lib/net30/protobuf-net.xml",
+        "lib/net35-cf/protobuf-net.dll",
+        "lib/net35-cf/protobuf-net.pdb",
+        "lib/net35-cf/protobuf-net.xml",
+        "lib/net35/protobuf-net.dll",
+        "lib/net35/protobuf-net.pdb",
+        "lib/net35/protobuf-net.xml",
+        "lib/net40-cf/protobuf-net.dll",
+        "lib/net40-cf/protobuf-net.pdb",
+        "lib/net40-cf/protobuf-net.xml",
+        "lib/net40/protobuf-net.dll",
+        "lib/net40/protobuf-net.pdb",
+        "lib/net40/protobuf-net.xml",
+        "lib/netcore45/protobuf-net.XML",
+        "lib/netcore45/protobuf-net.dll",
+        "lib/netcore45/protobuf-net.pdb",
+        "lib/netcore45/protobuf-net.pri",
+        "lib/portable-sl4+net40+wp7+windows8/protobuf-net.dll",
+        "lib/portable-sl4+net40+wp7+windows8/protobuf-net.pdb",
+        "lib/portable-sl4+net40+wp7+windows8/protobuf-net.xml",
+        "lib/sl3-wp/protobuf-net.dll",
+        "lib/sl3-wp/protobuf-net.pdb",
+        "lib/sl3-wp/protobuf-net.xml",
+        "lib/sl4-windowsphone71/protobuf-net.dll",
+        "lib/sl4-windowsphone71/protobuf-net.pdb",
+        "lib/sl4-windowsphone71/protobuf-net.xml",
+        "lib/sl4/protobuf-net.dll",
+        "lib/sl4/protobuf-net.pdb",
+        "lib/sl4/protobuf-net.xml",
+        "lib/windowsphone8/protobuf-net.dll",
+        "lib/windowsphone8/protobuf-net.pdb",
+        "lib/windowsphone8/protobuf-net.xml",
+        "protobuf-net.2.0.0.668.nupkg.sha512",
+        "protobuf-net.nuspec"
+      ]
+    },
+    "ServiceStack.Client/4.5.12": {
+      "sha512": "sNu+66S6AunfFWYcKdATJeDJoIxrBfDiZhQeuQ5mvoZ4mxaHu0uJqNymMOWbkHZkAvxF6sk5XyH0bJ8Ztm2cSQ==",
+      "type": "package",
+      "path": "servicestack.client/4.5.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid/ServiceStack.Client.dll",
+        "lib/MonoAndroid/ServiceStack.Client.xml",
+        "lib/MonoAndroid/ServiceStack.Pcl.Android.dll",
+        "lib/MonoTouch/ServiceStack.Client.dll",
+        "lib/MonoTouch/ServiceStack.Client.xml",
+        "lib/Xamarin.Mac20/ServiceStack.Client.dll",
+        "lib/Xamarin.Mac20/ServiceStack.Client.xml",
+        "lib/Xamarin.Mac20/ServiceStack.Pcl.Mac20.dll",
+        "lib/Xamarin.iOS10/ServiceStack.Client.dll",
+        "lib/Xamarin.iOS10/ServiceStack.Client.xml",
+        "lib/Xamarin.iOS10/ServiceStack.Pcl.iOS.dll",
+        "lib/net45/ServiceStack.Client.dll",
+        "lib/net45/ServiceStack.Client.xml",
+        "lib/portable-net45+win8+monotouch+monoandroid+xamarin.ios10/ServiceStack.Client.dll",
+        "lib/portable-net45+win8+monotouch+monoandroid+xamarin.ios10/ServiceStack.Client.xml",
+        "lib/sl5/ServiceStack.Client.dll",
+        "lib/win/ServiceStack.Client.dll",
+        "lib/win/ServiceStack.Client.xml",
+        "lib/win/ServiceStack.Pcl.WinStore.dll",
+        "lib/win/ServiceStack.Pcl.WinStore.pri",
+        "servicestack.client.4.5.12.nupkg.sha512",
+        "servicestack.client.nuspec"
+      ]
+    },
+    "ServiceStack.HttpClient/4.5.12": {
+      "sha512": "jmDX9yhfgKrrd+lczQTB/j5+M2e926Tp033jR7/EVar0wySMkjXigQDI/sC5MaBIt8yF7/mCVbjPAF7B7+gMEw==",
+      "type": "package",
+      "path": "servicestack.httpclient/4.5.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/ServiceStack.HttpClient.dll",
+        "lib/net45/ServiceStack.HttpClient.xml",
+        "lib/portable-net45+win8+monotouch+monoandroid+xamarin.ios10/ServiceStack.HttpClient.dll",
+        "lib/portable-net45+win8+monotouch+monoandroid+xamarin.ios10/ServiceStack.HttpClient.xml",
+        "servicestack.httpclient.4.5.12.nupkg.sha512",
+        "servicestack.httpclient.nuspec"
+      ]
+    },
+    "ServiceStack.Interfaces/4.5.12": {
+      "sha512": "70yjcCUz2YgxfD/dMzFRrzXyEO17UZ7+PUXm8cLChfVR/RgNlJ9prPxV1FVXyCp+5yLoIOSrLrhSc9GwzbqHCQ==",
+      "type": "package",
+      "path": "servicestack.interfaces/4.5.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/portable-wp80+sl5+net45+win8+wpa81+monotouch+monoandroid+xamarin.ios10/ServiceStack.Interfaces.dll",
+        "lib/portable-wp80+sl5+net45+win8+wpa81+monotouch+monoandroid+xamarin.ios10/ServiceStack.Interfaces.xml",
+        "servicestack.interfaces.4.5.12.nupkg.sha512",
+        "servicestack.interfaces.nuspec"
+      ]
+    },
+    "ServiceStack.Text/4.5.12": {
+      "sha512": "aq0+L3bIe338rimDeeFFl9WDpk3Mpt9c7nReeD2YDDQV8cGuFVW0d1mZs+znzcbU86nuvXQBcu0HWibB8awdfg==",
+      "type": "package",
+      "path": "servicestack.text/4.5.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/ServiceStack.Text.dll",
+        "lib/net45/ServiceStack.Text.xml",
+        "lib/portable-net45+win8+monotouch+monoandroid+xamarin.ios10/ServiceStack.Text.dll",
+        "lib/portable-net45+win8+monotouch+monoandroid+xamarin.ios10/ServiceStack.Text.xml",
+        "lib/sl5/ServiceStack.Text.dll",
+        "lib/sl5/ServiceStack.Text.xml",
+        "servicestack.text.4.5.12.nupkg.sha512",
+        "servicestack.text.nuspec"
+      ]
+    },
+    "StyleCop.Analyzers/1.1.118": {
+      "sha512": "Onx6ovGSqXSK07n/0eM3ZusiNdB6cIlJdabQhWGgJp3Vooy9AaLS/tigeybOJAobqbtggTamoWndz72JscZBvw==",
+      "type": "package",
+      "path": "stylecop.analyzers/1.1.118",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt",
+        "analyzers/dotnet/cs/StyleCop.Analyzers.CodeFixes.dll",
+        "analyzers/dotnet/cs/StyleCop.Analyzers.dll",
+        "analyzers/dotnet/cs/de-DE/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/en-GB/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/es-MX/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/fr-FR/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/pl-PL/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/pt-BR/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/ru-RU/StyleCop.Analyzers.resources.dll",
+        "stylecop.analyzers.1.1.118.nupkg.sha512",
+        "stylecop.analyzers.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.2": [
+      "Matrox.PowerStreamPlus.Client >= 3.2.0",
+      "StyleCop.Analyzers >= 1.1.118"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\holayan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Work\\Maevex2\\Daily\\3.02.00\\Build_017\\Samples\\Matrox.Maevex.SDK_v3.02.00.017\\MVXclient.Samples\\PSPlusClient.HelloWorld - Copy (2)\\PSPlusClient.HelloWorld.csproj",
+      "projectName": "PSPlusClient.HelloWorld",
+      "projectPath": "C:\\Work\\Maevex2\\Daily\\3.02.00\\Build_017\\Samples\\Matrox.Maevex.SDK_v3.02.00.017\\MVXclient.Samples\\PSPlusClient.HelloWorld - Copy (2)\\PSPlusClient.HelloWorld.csproj",
+      "packagesPath": "C:\\Users\\holayan\\.nuget\\packages\\",
+      "outputPath": "C:\\Work\\Maevex2\\Daily\\3.02.00\\Build_017\\Samples\\Matrox.Maevex.SDK_v3.02.00.017\\MVXclient.Samples\\PSPlusClient.HelloWorld - Copy (2)\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\holayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net452"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Work\\Maevex2\\Daily\\3.02.00\\Build_017\\Samples\\Matrox.Maevex.SDK_v3.02.00.017\\MVXclient.Samples": {},
+        "C:\\Work\\Maevex2\\Daily\\3.02.00\\Build_018\\Samples\\Matrox.Maevex.SDK_v3.02.00.018\\MVXclient.Samples": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net452": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net452": {
+        "dependencies": {
+          "Matrox.PowerStreamPlus.Client": {
+            "target": "Package",
+            "version": "[3.2.0, )"
+          },
+          "StyleCop.Analyzers": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.1.118, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

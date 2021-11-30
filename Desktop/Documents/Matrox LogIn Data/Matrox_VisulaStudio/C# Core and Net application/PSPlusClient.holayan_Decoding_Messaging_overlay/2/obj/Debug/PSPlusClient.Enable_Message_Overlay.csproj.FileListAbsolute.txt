@@ -1,0 +1,48 @@
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\bin\Debug\PSPlusClient.HelloWorld.exe.config
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\bin\Debug\PSPlusClient.HelloWorld.exe
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\bin\Debug\PSPlusClient.HelloWorld.pdb
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\bin\Debug\Autofac.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\bin\Debug\MML.SSDP.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\bin\Debug\SV2Client.Serializer.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\bin\Debug\SV2Client.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\bin\Debug\System.Net.Http.Extensions.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\bin\Debug\System.Net.Http.Primitives.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\bin\Debug\Nito.AsyncEx.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\bin\Debug\protobuf-net.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\bin\Debug\protobuf-net.pdb
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\bin\Debug\ServiceStack.Client.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\bin\Debug\ServiceStack.HttpClient.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\bin\Debug\ServiceStack.Interfaces.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\bin\Debug\ServiceStack.Text.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\bin\Debug\SV2Client.Net.Windows.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\obj\Debug\PSPlusClient.Enable_Message_Overlay.csproj.CoreCompileInputs.cache
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\obj\Debug\PSPlusClient.Enable_Message_Overlay.csproj.CopyComplete
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\obj\Debug\PSPlusClient.HelloWorld.exe
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\obj\Debug\PSPlusClient.HelloWorld.pdb
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (4)\obj\Debug\PSPlusClient.Enable_Message_Overlay.csprojAssemblyReference.cache
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\bin\Debug\PSPlusClient.HelloWorld.exe.config
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\bin\Debug\PSPlusClient.HelloWorld.exe
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\bin\Debug\PSPlusClient.HelloWorld.pdb
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\bin\Debug\Autofac.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\bin\Debug\MML.SSDP.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\bin\Debug\SV2Client.Serializer.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\bin\Debug\SV2Client.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\bin\Debug\System.Net.Http.Extensions.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\bin\Debug\System.Net.Http.Primitives.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\bin\Debug\Nito.AsyncEx.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\bin\Debug\protobuf-net.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\bin\Debug\protobuf-net.pdb
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\bin\Debug\ServiceStack.Client.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\bin\Debug\ServiceStack.HttpClient.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\bin\Debug\ServiceStack.Interfaces.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\bin\Debug\ServiceStack.Text.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\bin\Debug\SV2Client.Net.Windows.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\obj\Debug\PSPlusClient.Enable_Message_Overlay.csprojAssemblyReference.cache
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\obj\Debug\PSPlusClient.Enable_Message_Overlay.csproj.CoreCompileInputs.cache
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\obj\Debug\PSPlusClient.Enable_Message_Overlay.csproj.CopyComplete
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\obj\Debug\PSPlusClient.HelloWorld.exe
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayan_Button_Enable_Messaging_Overlay\obj\Debug\PSPlusClient.HelloWorld.pdb

@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Work\\Maevex2\\Daily\\3.02.00\\Build_017\\Samples\\Matrox.Maevex.SDK_v3.02.00.017\\MVXclient.Samples\\PSPlusClient.HelloWorld - Copy (2)\\PSPlusClient.HelloWorld.csproj": {}
+  },
+  "projects": {
+    "C:\\Work\\Maevex2\\Daily\\3.02.00\\Build_017\\Samples\\Matrox.Maevex.SDK_v3.02.00.017\\MVXclient.Samples\\PSPlusClient.HelloWorld - Copy (2)\\PSPlusClient.HelloWorld.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Work\\Maevex2\\Daily\\3.02.00\\Build_017\\Samples\\Matrox.Maevex.SDK_v3.02.00.017\\MVXclient.Samples\\PSPlusClient.HelloWorld - Copy (2)\\PSPlusClient.HelloWorld.csproj",
+        "projectName": "PSPlusClient.HelloWorld",
+        "projectPath": "C:\\Work\\Maevex2\\Daily\\3.02.00\\Build_017\\Samples\\Matrox.Maevex.SDK_v3.02.00.017\\MVXclient.Samples\\PSPlusClient.HelloWorld - Copy (2)\\PSPlusClient.HelloWorld.csproj",
+        "packagesPath": "C:\\Users\\holayan\\.nuget\\packages\\",
+        "outputPath": "C:\\Work\\Maevex2\\Daily\\3.02.00\\Build_017\\Samples\\Matrox.Maevex.SDK_v3.02.00.017\\MVXclient.Samples\\PSPlusClient.HelloWorld - Copy (2)\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\holayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Work\\Maevex2\\Daily\\3.02.00\\Build_017\\Samples\\Matrox.Maevex.SDK_v3.02.00.017\\MVXclient.Samples": {},
+          "C:\\Work\\Maevex2\\Daily\\3.02.00\\tempTest\\Samples\\Matrox.Maevex.SDK_v3.02.00.017\\MVXclient.Samples": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "dependencies": {
+            "Matrox.PowerStreamPlus.Client": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

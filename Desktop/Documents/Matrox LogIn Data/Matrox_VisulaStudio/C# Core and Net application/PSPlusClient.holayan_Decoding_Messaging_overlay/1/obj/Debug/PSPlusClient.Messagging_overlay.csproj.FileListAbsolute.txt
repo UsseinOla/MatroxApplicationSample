@@ -1,0 +1,72 @@
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\PSPlusClient.HelloWorld.exe.config
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\PSPlusClient.HelloWorld.exe
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\PSPlusClient.HelloWorld.pdb
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\Autofac.dll
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\MML.SSDP.dll
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\SV2Client.Serializer.dll
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\SV2Client.dll
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\System.Net.Http.Extensions.dll
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\System.Net.Http.Primitives.dll
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\Nito.AsyncEx.dll
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\protobuf-net.dll
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\protobuf-net.pdb
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\ServiceStack.Client.dll
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\ServiceStack.HttpClient.dll
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\ServiceStack.Interfaces.dll
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\ServiceStack.Text.dll
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\SV2Client.Net.Windows.dll
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\obj\Debug\PSPlusClient.Messagging_overlay.csprojAssemblyReference.cache
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\obj\Debug\PSPlusClient.Messagging_overlay.csproj.CoreCompileInputs.cache
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\obj\Debug\PSPlusClient.Messagging_overlay.csproj.CopyComplete
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\obj\Debug\PSPlusClient.HelloWorld.exe
+C:\Work\Maevex2\Daily\3.02.00\tempTest\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\obj\Debug\PSPlusClient.HelloWorld.pdb
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\bin\Debug\PSPlusClient.HelloWorld.exe.config
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\bin\Debug\PSPlusClient.HelloWorld.exe
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\bin\Debug\PSPlusClient.HelloWorld.pdb
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\bin\Debug\Autofac.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\bin\Debug\MML.SSDP.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\bin\Debug\SV2Client.Serializer.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\bin\Debug\SV2Client.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\bin\Debug\System.Net.Http.Extensions.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\bin\Debug\System.Net.Http.Primitives.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\bin\Debug\Nito.AsyncEx.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\bin\Debug\protobuf-net.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\bin\Debug\protobuf-net.pdb
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\bin\Debug\ServiceStack.Client.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\bin\Debug\ServiceStack.HttpClient.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\bin\Debug\ServiceStack.Interfaces.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\bin\Debug\ServiceStack.Text.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\bin\Debug\SV2Client.Net.Windows.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\obj\Debug\PSPlusClient.Messagging_overlay.csprojAssemblyReference.cache
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\obj\Debug\PSPlusClient.Messagging_overlay.csproj.CoreCompileInputs.cache
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\obj\Debug\PSPlusClient.Messagging_overlay.csproj.CopyComplete
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\obj\Debug\PSPlusClient.HelloWorld.exe
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.holayanMessagging_overlay\obj\Debug\PSPlusClient.HelloWorld.pdb
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\bin\Debug\PSPlusClient.HelloWorld.exe.config
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\bin\Debug\PSPlusClient.HelloWorld.exe
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\bin\Debug\PSPlusClient.HelloWorld.pdb
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\bin\Debug\Autofac.dll
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\bin\Debug\MML.SSDP.dll
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\bin\Debug\SV2Client.Serializer.dll
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\bin\Debug\SV2Client.dll
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\bin\Debug\Nito.AsyncEx.dll
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\bin\Debug\protobuf-net.dll
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\bin\Debug\protobuf-net.pdb
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\bin\Debug\ServiceStack.Client.dll
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\bin\Debug\ServiceStack.HttpClient.dll
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\bin\Debug\ServiceStack.Text.dll
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\bin\Debug\SV2Client.Net.Windows.dll
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\obj\Debug\PSPlusClient.Messagging_overlay.csprojAssemblyReference.cache
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\obj\Debug\PSPlusClient.Messagging_overlay.csproj.CoreCompileInputs.cache
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\obj\Debug\PSPlusClient.Messagging_overlay.csproj.CopyComplete
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\obj\Debug\PSPlusClient.HelloWorld.exe
+C:\Users\holayan\Desktop\Matrox\trash\Functional test Addjustment\PSPlusClient.holayanMessagging_overlay\obj\Debug\PSPlusClient.HelloWorld.pdb

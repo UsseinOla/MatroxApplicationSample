@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "6hnFgbrt7j3p/CTk/+T8Pn2gRcy1JPe7TfDKj2vM0+bvKsXuZewCcR8LJaee/g9UId/x5nmCzW8nOqUCQcgR5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\holayan\\Desktop\\Matrox\\trash\\Functional test Addjustment\\PSPlusClient.holayan_Decoder_Network\\PSPlusClient.holayan_Decoder_Network.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\holayan\\.nuget\\packages\\autofac\\3.5.2\\autofac.3.5.2.nupkg.sha512",
+    "C:\\Users\\holayan\\.nuget\\packages\\matrox.powerstreamplus.client\\3.2.0\\matrox.powerstreamplus.client.3.2.0.nupkg.sha512",
+    "C:\\Users\\holayan\\.nuget\\packages\\microsoft.bcl\\1.1.10\\microsoft.bcl.1.1.10.nupkg.sha512",
+    "C:\\Users\\holayan\\.nuget\\packages\\microsoft.bcl.build\\1.0.14\\microsoft.bcl.build.1.0.14.nupkg.sha512",
+    "C:\\Users\\holayan\\.nuget\\packages\\microsoft.net.http\\2.2.29\\microsoft.net.http.2.2.29.nupkg.sha512",
+    "C:\\Users\\holayan\\.nuget\\packages\\nito.asyncex\\3.0.1\\nito.asyncex.3.0.1.nupkg.sha512",
+    "C:\\Users\\holayan\\.nuget\\packages\\protobuf-net\\2.0.0.668\\protobuf-net.2.0.0.668.nupkg.sha512",
+    "C:\\Users\\holayan\\.nuget\\packages\\servicestack.client\\4.5.12\\servicestack.client.4.5.12.nupkg.sha512",
+    "C:\\Users\\holayan\\.nuget\\packages\\servicestack.httpclient\\4.5.12\\servicestack.httpclient.4.5.12.nupkg.sha512",
+    "C:\\Users\\holayan\\.nuget\\packages\\servicestack.interfaces\\4.5.12\\servicestack.interfaces.4.5.12.nupkg.sha512",
+    "C:\\Users\\holayan\\.nuget\\packages\\servicestack.text\\4.5.12\\servicestack.text.4.5.12.nupkg.sha512",
+    "C:\\Users\\holayan\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

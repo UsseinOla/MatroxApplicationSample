@@ -1,0 +1,48 @@
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\PSPlusClient.HelloWorld.exe.config
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\PSPlusClient.HelloWorld.exe
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\PSPlusClient.HelloWorld.pdb
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\Autofac.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\MML.SSDP.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\SV2Client.Serializer.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\SV2Client.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\System.Net.Http.Extensions.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\System.Net.Http.Primitives.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\Nito.AsyncEx.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\protobuf-net.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\protobuf-net.pdb
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\ServiceStack.Client.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\ServiceStack.HttpClient.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\ServiceStack.Interfaces.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\ServiceStack.Text.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\bin\Debug\SV2Client.Net.Windows.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\obj\Debug\PSPlusClient.HelloWorld.csproj.CoreCompileInputs.cache
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\obj\Debug\PSPlusClient.HelloWorld.csproj.CopyComplete
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\obj\Debug\PSPlusClient.HelloWorld.exe
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\obj\Debug\PSPlusClient.HelloWorld.pdb
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld\obj\Debug\PSPlusClient.HelloWorld.csprojAssemblyReference.cache
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\bin\Debug\PSPlusClient.HelloWorld.exe.config
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\bin\Debug\PSPlusClient.HelloWorld.exe
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\bin\Debug\PSPlusClient.HelloWorld.pdb
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\bin\Debug\Autofac.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\bin\Debug\MML.SSDP.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\bin\Debug\SV2Client.Serializer.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\bin\Debug\SV2Client.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\bin\Debug\System.Net.Http.Extensions.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\bin\Debug\System.Net.Http.Primitives.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\bin\Debug\Nito.AsyncEx.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\bin\Debug\protobuf-net.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\bin\Debug\protobuf-net.pdb
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\bin\Debug\ServiceStack.Client.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\bin\Debug\ServiceStack.HttpClient.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\bin\Debug\ServiceStack.Interfaces.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\bin\Debug\ServiceStack.Text.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\bin\Debug\SV2Client.Net.Windows.dll
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\obj\Debug\PSPlusClient.HelloWorld.csproj.AssemblyReference.cache
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\obj\Debug\PSPlusClient.HelloWorld.csproj.CoreCompileInputs.cache
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\obj\Debug\PSPlusClient.HelloWorld.csproj.CopyComplete
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\obj\Debug\PSPlusClient.HelloWorld.exe
+C:\Work\Maevex2\Daily\3.02.00\Build_017\Samples\Matrox.Maevex.SDK_v3.02.00.017\MVXclient.Samples\PSPlusClient.HelloWorld - Copy (2)\obj\Debug\PSPlusClient.HelloWorld.pdb
